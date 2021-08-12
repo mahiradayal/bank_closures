@@ -6,7 +6,7 @@
 This project uses the FDIC's bank branch data. I looked into whether the number of banks per head in a FIPs code (county) impacts median household income and credit scores for residents. This analysis helped pick out specific zip codes with very few banks, low household incomes and effective bank deserts. Specifically, my story looks into Imperial County, California, Apache County, Arizona and Caddo Parish, Louisiana. 
 
 #### Points of interest in procuring and using bank data: 
-1. In bank_census_merge.ipynb, I used the census API to read in median household income and population by FIPs code. Created a new column for the number of banks per head by counting banks in each FIP code. 
+1. In `bank_census_merge.ipynb`, I used the census API to read in median household income and population by FIPs code. Created a new column for the number of banks per head by counting banks in each FIP code. 
 2. Spot tested 30 random rows to check if the FIPs code merging was accurate 
 3. Tried to manually add in credit score data for the codes with the 10 lowest number of banks and 10 highest number of banks from FRED Economic Equifax data, but realized this sample was not significant and the process was inefficient. Scraped FRED in a different notebook. 
 
@@ -25,7 +25,7 @@ An expert told me there were errors in FDIC address data, and that their geocodi
 
 #### Points of interest in geolocating: 
 1. Tested 100 rows to see if the latitude and longitudes they generated pointed to the same street addresses in their tables and found that over 20% did not. 
-2. Used the Google Maps API to re-generate coordinates, as shown in fdic_geocode_testing.ipynb. 
+2. Used the Google Maps API to re-generate coordinates, as shown in `fdic_geocode_testing.ipynb`. 
 3. Spot tested previous errors with newly generated coordinates to check validity — new Google Maps latitude and longitude were correct. 
 
 ### 4. Working with cell phone pattern data: 
