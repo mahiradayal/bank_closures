@@ -1,0 +1,215 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.72203,32.461914 ]
+    },
+    "properties": {
+    "UNIT":"Bom Bank",
+    "CNTYNAMB":"Caddo",
+    "STALP":"LA",
+    "ZIP":71457,
+    "ASSET":"612,117"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.731403,32.397961 ]
+    },
+    "properties": {
+    "UNIT":"Bank Of Coushatta",
+    "CNTYNAMB":"Caddo",
+    "STALP":"LA",
+    "ZIP":71019,
+    "ASSET":"250,206"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.74603,32.45706 ]
+    },
+    "properties": {
+    "UNIT":"Cross Keys Bank",
+    "CNTYNAMB":"Caddo",
+    "STALP":"LA",
+    "ZIP":71366,
+    "ASSET":"453,619"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.729101,32.443464 ]
+    },
+    "properties": {
+    "UNIT":"Origin Bank",
+    "CNTYNAMB":"Caddo",
+    "STALP":"LA",
+    "ZIP":71227,
+    "ASSET":"6,611,931"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.734699,32.385151 ]
+    },
+    "properties": {
+    "UNIT":"Community Bank Of Louisiana",
+    "CNTYNAMB":"Caddo",
+    "STALP":"LA",
+    "ZIP":71052,
+    "ASSET":"584,920"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.971375,32.729977 ]
+    },
+    "properties": {
+    "UNIT":"First Guaranty Bank",
+    "CNTYNAMB":"Caddo",
+    "STALP":"LA",
+    "ZIP":70401,
+    "ASSET":"2,435,762"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.81798,32.383762 ]
+    },
+    "properties": {
+    "UNIT":"Gibsland Bank & Trust Company",
+    "CNTYNAMB":"Caddo",
+    "STALP":"LA",
+    "ZIP":71028,
+    "ASSET":"476,276"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.971169,32.729526 ]
+    },
+    "properties": {
+    "UNIT":"Citizens Bank & Trust Company Of Vivian, Louisiana",
+    "CNTYNAMB":"Caddo",
+    "STALP":"LA",
+    "ZIP":71082,
+    "ASSET":"157,884"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.722088,32.457007 ]
+    },
+    "properties": {
+    "UNIT":"Progressive Bank",
+    "CNTYNAMB":"Caddo",
+    "STALP":"LA",
+    "ZIP":71201,
+    "ASSET":"735,289"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.809733,32.402246 ]
+    },
+    "properties": {
+    "UNIT":"Progressive National Bank",
+    "CNTYNAMB":"Caddo",
+    "STALP":"LA",
+    "ZIP":71052,
+    "ASSET":"85,818"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.721997,32.443349 ]
+    },
+    "properties": {
+    "UNIT":"Citizens National Bank, N.A.",
+    "CNTYNAMB":"Caddo",
+    "STALP":"LA",
+    "ZIP":71111,
+    "ASSET":"1,203,310"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.720258,32.449017 ]
+    },
+    "properties": {
+    "UNIT":"Home Federal Bank",
+    "CNTYNAMB":"Caddo",
+    "STALP":"LA",
+    "ZIP":71105,
+    "ASSET":"518,919"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.748004,32.514136 ]
+    },
+    "properties": {
+    "UNIT":"Iberiabank",
+    "CNTYNAMB":"Caddo",
+    "STALP":"LA",
+    "ZIP":70501,
+    "ASSET":"34,581,511"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.734699,32.385151 ]
+    },
+    "properties": {
+    "UNIT":"Red River Bank",
+    "CNTYNAMB":"Caddo",
+    "STALP":"LA",
+    "ZIP":71301,
+    "ASSET":"2,361,744"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.744535,32.512626 ]
+    },
+    "properties": {
+    "UNIT":"B1bank",
+    "CNTYNAMB":"Caddo",
+    "STALP":"LA",
+    "ZIP":70801,
+    "ASSET":"3,964,700"
+    }
+  }
+]
+}
