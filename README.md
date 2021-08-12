@@ -28,7 +28,12 @@ An expert told me there were errors in FDIC address data, and that their geocodi
 2. Used the Google Maps API to re-generate coordinates, as shown in `fdic_geocode_testing.ipynb`. 
 3. Spot tested previous errors with newly generated coordinates to check validity — new Google Maps latitude and longitude were correct. 
 
-### 4. Working with cell phone pattern data: 
+### 4. Mapping and Visualizing to analyze: 
+I used MapBox and QGIS in my analysis to look at where banks are concentrated, how spread out they are and to see whether there are visually obvious bank deserts. 
+1. The `california_map` and `louisiana_map` folders within `visuals` contain `index.html`, `map.js` and `styles.css` each, which can be used to run the MapBox maps I looked at. Both zoom into the correct counties and show bank names and the total value of assets they hold (which is useful as a measure of how big the bank actually is). Both maps were generated from the geolocated FDIC data, filtered down to the county level. 
+2. This point data is available in the `data` folder accompanying MapBox files as both `.csv` and `.geojson` files. 
+
+### 5. Working with cell phone pattern data: 
 
 I initially hoped to work with cell phone tracking data to figure out how far people from different census tract groups had to travel to go to a bank, if there was not one in their area. While I did analysis and cleaning for this, I later on dropped this aspect of the project because: 
 1. The data was from a private company has cell phone data that could show me bank name, street address, visitor origins, median dwell time, popularity of location by hour of day (scaled) but the bank names and counts I extracted from here did not match the FDIC data I used. 
