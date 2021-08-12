@@ -1,1 +1,306 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="marks" width="294" height="415" viewBox="0 0 294 415"><rect width="294" height="415" fill="white"/><g fill="none" stroke-miterlimit="10" transform="translate(59,57)"><g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container"><g transform="translate(0,0)"><path class="background" aria-hidden="true" d="M0,0h0v0h0Z"/><g><g class="mark-group role-column-title column-title" role="graphics-object" aria-roledescription="group mark container"><g transform="translate(82,-31)"><path class="background" aria-hidden="true" d="M0,0h0v0h0Z"/><g><g class="mark-group role-title"><g transform="translate(0,-21)"><path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-text role-title-text" role="graphics-symbol" aria-roledescription="title" aria-label="Title text 'location'" pointer-events="none"><text text-anchor="middle" transform="translate(0,9)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">location</text></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/></g></g></g><path class="foreground" aria-hidden="true" d="" display="none"/></g></g><g class="mark-group role-row-header row_header" role="graphics-object" aria-roledescription="group mark container"><g transform="translate(-1,0)"><path class="background" aria-hidden="true" d="M0,0h0v300h0Z"/><g><g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="Y-axis titled 'credit_score' for a linear scale with values from 0 to 70,000"><g transform="translate(0.5,0.5)"><path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-tick" pointer-events="none"><line transform="translate(0,300)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/><line transform="translate(0,257)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/><line transform="translate(0,214)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/><line transform="translate(0,171)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/><line transform="translate(0,129)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/><line transform="translate(0,86)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/><line transform="translate(0,43)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/><line transform="translate(0,0)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/></g><g class="mark-text role-axis-label" pointer-events="none"><text text-anchor="end" transform="translate(-7,303)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">0</text><text text-anchor="end" transform="translate(-7,260.14285714285717)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">10,000</text><text text-anchor="end" transform="translate(-7,217.28571428571428)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">20,000</text><text text-anchor="end" transform="translate(-7,174.42857142857142)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">30,000</text><text text-anchor="end" transform="translate(-7,131.57142857142858)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">40,000</text><text text-anchor="end" transform="translate(-7,88.71428571428571)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">50,000</text><text text-anchor="end" transform="translate(-7,45.85714285714287)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">60,000</text><text text-anchor="end" transform="translate(-7,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">70,000</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line transform="translate(0,300)" x2="0" y2="-300" stroke="#888" stroke-width="1" opacity="1"/></g><g class="mark-text role-axis-title" pointer-events="none"><text text-anchor="middle" transform="translate(-41.5859375,150) rotate(-90) translate(0,-2)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">credit_score</text></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/></g></g></g><path class="foreground" aria-hidden="true" d="" display="none"/></g></g><g class="mark-group role-column-header column_header" role="graphics-object" aria-roledescription="group mark container"><g transform="translate(0,-1)"><path class="background" aria-hidden="true" d="M0,0h40v0h-40Z"/><g><g class="mark-group role-title"><g transform="translate(20,-20)"><path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-text role-title-text" role="graphics-symbol" aria-roledescription="title" aria-label="Title text 'Arizona'" pointer-events="none"><text text-anchor="middle" transform="translate(0,8)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Arizona</text></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/></g></g></g><path class="foreground" aria-hidden="true" d="" display="none"/></g><g transform="translate(62,-1)"><path class="background" aria-hidden="true" d="M0,0h40v0h-40Z"/><g><g class="mark-group role-title"><g transform="translate(20,-20)"><path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-text role-title-text" role="graphics-symbol" aria-roledescription="title" aria-label="Title text 'California'" pointer-events="none"><text text-anchor="middle" transform="translate(0,8)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">California</text></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/></g></g></g><path class="foreground" aria-hidden="true" d="" display="none"/></g><g transform="translate(124,-1)"><path class="background" aria-hidden="true" d="M0,0h40v0h-40Z"/><g><g class="mark-group role-title"><g transform="translate(20,-20)"><path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-text role-title-text" role="graphics-symbol" aria-roledescription="title" aria-label="Title text 'Louisiana'" pointer-events="none"><text text-anchor="middle" transform="translate(0,8)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">Louisiana</text></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/></g></g></g><path class="foreground" aria-hidden="true" d="" display="none"/></g></g><g class="mark-group role-column-footer column_footer" role="graphics-object" aria-roledescription="group mark container"><g transform="translate(0,301)"><path class="background" aria-hidden="true" d="M0,0h40v0h-40Z"/><g><g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="X-axis titled 'type' for a discrete scale with 2 values: county, state"><g transform="translate(0.5,0.5)"><path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-tick" pointer-events="none"><line transform="translate(10,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/><line transform="translate(30,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/></g><g class="mark-text role-axis-label" pointer-events="none"><text text-anchor="end" transform="translate(9.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">county</text><text text-anchor="end" transform="translate(29.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">state</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line transform="translate(0,0)" x2="40" y2="0" stroke="#888" stroke-width="1" opacity="1"/></g><g class="mark-text role-axis-title" pointer-events="none"><text text-anchor="middle" transform="translate(20,49.462890625)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">type</text></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/></g></g></g><path class="foreground" aria-hidden="true" d="" display="none"/></g><g transform="translate(62,301)"><path class="background" aria-hidden="true" d="M0,0h40v0h-40Z"/><g><g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="X-axis titled 'type' for a discrete scale with 2 values: county, state"><g transform="translate(0.5,0.5)"><path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-tick" pointer-events="none"><line transform="translate(10,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/><line transform="translate(30,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/></g><g class="mark-text role-axis-label" pointer-events="none"><text text-anchor="end" transform="translate(9.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">county</text><text text-anchor="end" transform="translate(29.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">state</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line transform="translate(0,0)" x2="40" y2="0" stroke="#888" stroke-width="1" opacity="1"/></g><g class="mark-text role-axis-title" pointer-events="none"><text text-anchor="middle" transform="translate(20,49.462890625)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">type</text></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/></g></g></g><path class="foreground" aria-hidden="true" d="" display="none"/></g><g transform="translate(124,301)"><path class="background" aria-hidden="true" d="M0,0h40v0h-40Z"/><g><g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="X-axis titled 'type' for a discrete scale with 2 values: county, state"><g transform="translate(0.5,0.5)"><path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-tick" pointer-events="none"><line transform="translate(10,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/><line transform="translate(30,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/></g><g class="mark-text role-axis-label" pointer-events="none"><text text-anchor="end" transform="translate(9.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">county</text><text text-anchor="end" transform="translate(29.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">state</text></g><g class="mark-rule role-axis-domain" pointer-events="none"><line transform="translate(0,0)" x2="40" y2="0" stroke="#888" stroke-width="1" opacity="1"/></g><g class="mark-text role-axis-title" pointer-events="none"><text text-anchor="middle" transform="translate(20,49.462890625)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">type</text></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/></g></g></g><path class="foreground" aria-hidden="true" d="" display="none"/></g></g><g class="mark-group role-scope cell" role="graphics-object" aria-roledescription="group mark container"><g transform="translate(0,0)"><path class="background" aria-hidden="true" d="M0.5,0.5h40v300h-40Z" stroke="#ddd"/><g><g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="Y-axis for a linear scale with values from 0 to 70,000"><g transform="translate(0.5,0.5)"><path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-grid" pointer-events="none"><line transform="translate(0,300)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,257)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,214)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,171)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,129)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,86)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,43)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,0)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/></g></g><g class="mark-rect role-mark child_marks" role="graphics-symbol" aria-roledescription="rect mark container"><path d="M1,160.68000000000004h18v139.31999999999996h-18Z" fill="#4c78a8"/><path d="M21,90.04314287142859h18v209.95685712857141h-18Z" fill="#f58518"/></g></g><path class="foreground" aria-hidden="true" d="" display="none"/></g><g transform="translate(62,0)"><path class="background" aria-hidden="true" d="M0.5,0.5h40v300h-40Z" stroke="#ddd"/><g><g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="Y-axis for a linear scale with values from 0 to 70,000"><g transform="translate(0.5,0.5)"><path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-grid" pointer-events="none"><line transform="translate(0,300)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,257)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,214)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,171)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,129)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,86)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,43)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,0)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/></g></g><g class="mark-rect role-mark child_marks" role="graphics-symbol" aria-roledescription="rect mark container"><path d="M1,95.90571428571427h18v204.09428571428572h-18Z" fill="#4c78a8"/><path d="M21,9.774842614285728h18v290.2251573857143h-18Z" fill="#f58518"/></g></g><path class="foreground" aria-hidden="true" d="" display="none"/></g><g transform="translate(124,0)"><path class="background" aria-hidden="true" d="M0.5,0.5h40v300h-40Z" stroke="#ddd"/><g><g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="Y-axis for a linear scale with values from 0 to 70,000"><g transform="translate(0.5,0.5)"><path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-rule role-axis-grid" pointer-events="none"><line transform="translate(0,300)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,257)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,214)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,171)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,129)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,86)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,43)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/><line transform="translate(0,0)" x2="40" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/></g></g><g class="mark-rect role-mark child_marks" role="graphics-symbol" aria-roledescription="rect mark container"><path d="M1,120.87h18v179.13h-18Z" fill="#4c78a8"/><path d="M21,107.68279015714286h18v192.31720984285715h-18Z" fill="#f58518"/></g></g><path class="foreground" aria-hidden="true" d="" display="none"/></g></g><g class="mark-group role-legend" role="graphics-symbol" aria-roledescription="legend" aria-label="Symbol legend titled 'type' for fill color with 2 values: county, state"><g transform="translate(184,0)"><path class="background" aria-hidden="true" d="M0,0h46v40h-46Z" pointer-events="none"/><g><g class="mark-group role-legend-entry"><g transform="translate(0,16)"><path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/><g><g class="mark-group role-scope" role="graphics-object" aria-roledescription="group mark container"><g transform="translate(0,0)"><path class="background" aria-hidden="true" d="M0,0h45.462890625v11h-45.462890625Z" pointer-events="none" opacity="1"/><g><g class="mark-symbol role-legend-symbol" pointer-events="none"><path transform="translate(6,6)" d="M-5,-5h10v10h-10Z" fill="#4c78a8" stroke-width="1.5" opacity="1"/></g><g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start" transform="translate(16,9)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">county</text></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/></g><g transform="translate(0,13)"><path class="background" aria-hidden="true" d="M0,0h45.462890625v11h-45.462890625Z" pointer-events="none" opacity="1"/><g><g class="mark-symbol role-legend-symbol" pointer-events="none"><path transform="translate(6,6)" d="M-5,-5h10v10h-10Z" fill="#f58518" stroke-width="1.5" opacity="1"/></g><g class="mark-text role-legend-label" pointer-events="none"><text text-anchor="start" transform="translate(16,9)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">state</text></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/></g></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/></g></g><g class="mark-text role-legend-title" pointer-events="none"><text text-anchor="start" transform="translate(0,9)" font-family="sans-serif" font-size="11px" font-weight="bold" fill="#000" opacity="1">type</text></g></g><path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/></g></g></g><path class="foreground" aria-hidden="true" d="" display="none"/></g></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 294 415" style="enable-background:new 0 0 294 415;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:none;stroke:#888888;stroke-miterlimit:10;}
+	.st2{font-family:'Helvetica';}
+	.st3{font-size:10px;}
+	.st4{font-family:'Helvetica-Bold';}
+	.st5{font-size:11px;}
+	.st6{display:none;}
+	.st7{fill:none;stroke:#DDDDDD;stroke-miterlimit:10;}
+	.st8{display:none;fill:none;stroke:#DDDDDD;stroke-miterlimit:10;}
+	.st9{fill:#4C78A8;}
+	.st10{fill:#F58518;}
+	.st11{display:none;fill:#F58518;}
+	.st12{enable-background:new    ;}
+</style>
+<path class="st0" d="M59,57L59,57L59,57L59,57z"/>
+<g transform="translate(-1,0)">
+	<path class="st0" d="M59,57L59,57v300l0,0V57z"/>
+	<g>
+		<g>
+			<g transform="translate(0.5,0.5)">
+				<path pointer-events="none" class="st0" d="M59,57L59,57L59,57L59,57z"/>
+				<g>
+					<g pointer-events="none">
+						<line class="st1" x1="59" y1="357" x2="54" y2="357"/>
+						<line class="st1" x1="59" y1="314" x2="54" y2="314"/>
+						<line class="st1" x1="59" y1="271" x2="54" y2="271"/>
+						<line class="st1" x1="59" y1="228" x2="54" y2="228"/>
+						<line class="st1" x1="59" y1="186" x2="54" y2="186"/>
+						<line class="st1" x1="59" y1="143" x2="54" y2="143"/>
+						<line class="st1" x1="59" y1="100" x2="54" y2="100"/>
+						<line class="st1" x1="59" y1="57" x2="54" y2="57"/>
+					</g>
+					<g pointer-events="none">
+						<text transform="matrix(1 0 0 1 46.4385 360)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 21.4141 317.1428)" class="st2 st3">10,000</text>
+						<text transform="matrix(1 0 0 1 21.4141 274.2857)" class="st2 st3">20,000</text>
+						<text transform="matrix(1 0 0 1 21.4141 231.4286)" class="st2 st3">30,000</text>
+						<text transform="matrix(1 0 0 1 21.4141 188.5714)" class="st2 st3">40,000</text>
+						<text transform="matrix(1 0 0 1 21.4141 145.7143)" class="st2 st3">50,000</text>
+						<text transform="matrix(1 0 0 1 21.4141 102.8571)" class="st2 st3">60,000</text>
+						<text transform="matrix(1 0 0 1 21.4141 60)" class="st2 st3">70,000</text>
+					</g>
+					<g pointer-events="none">
+						<line class="st1" x1="59" y1="357" x2="59" y2="57"/>
+					</g>
+					<g pointer-events="none">
+						<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 15.4141 286.3398)" class="st4 st5">Median Household Income</text>
+					</g>
+				</g>
+				<path pointer-events="none" class="st6" d="M59,57"/>
+			</g>
+		</g>
+	</g>
+	<path class="st6" d="M59,57"/>
+</g>
+<g transform="translate(0,-1)">
+	<path class="st0" d="M59,57h40l0,0H59z"/>
+	<g>
+		<g>
+			<g transform="translate(20,-20)">
+				<path pointer-events="none" class="st0" d="M59,57L59,57L59,57L59,57z"/>
+				<g>
+					<g pointer-events="none">
+						<text transform="matrix(1 0 0 1 42.0469 65)" class="st2 st3">Arizona</text>
+					</g>
+				</g>
+				<path pointer-events="none" class="st6" d="M59,57"/>
+			</g>
+		</g>
+	</g>
+	<path class="st6" d="M59,57"/>
+</g>
+<g transform="translate(62,-1)">
+	<path class="st0" d="M59,57h40l0,0H59z"/>
+	<g>
+		<g>
+			<g transform="translate(20,-20)">
+				<path pointer-events="none" class="st0" d="M59,57L59,57L59,57L59,57z"/>
+				<g>
+					<g pointer-events="none">
+						<text transform="matrix(1 0 0 1 37.8794 65)" class="st2 st3">California</text>
+					</g>
+				</g>
+				<path pointer-events="none" class="st6" d="M59,57"/>
+			</g>
+		</g>
+	</g>
+	<path class="st6" d="M59,57"/>
+</g>
+<g transform="translate(124,-1)">
+	<path class="st0" d="M59,57h40l0,0H59z"/>
+	<g>
+		<g>
+			<g transform="translate(20,-20)">
+				<path pointer-events="none" class="st0" d="M59,57L59,57L59,57L59,57z"/>
+				<g>
+					<g pointer-events="none">
+						<text transform="matrix(1 0 0 1 37.5938 65)" class="st2 st3">Louisiana</text>
+					</g>
+				</g>
+				<path pointer-events="none" class="st6" d="M59,57"/>
+			</g>
+		</g>
+	</g>
+	<path class="st6" d="M59,57"/>
+</g>
+<g transform="translate(0,0)">
+	<path class="st7" d="M59.5,57.5h40v300h-40V57.5z"/>
+	<g>
+		<g>
+			<g transform="translate(0.5,0.5)">
+				<path pointer-events="none" class="st0" d="M59,57L59,57L59,57L59,57z"/>
+				<g>
+					<g pointer-events="none">
+						<line class="st7" x1="59" y1="357" x2="99" y2="357"/>
+						<line class="st7" x1="59" y1="314" x2="99" y2="314"/>
+						<line class="st7" x1="59" y1="271" x2="99" y2="271"/>
+						<line class="st7" x1="59" y1="228" x2="99" y2="228"/>
+						<line class="st7" x1="59" y1="186" x2="99" y2="186"/>
+						<line class="st7" x1="59" y1="143" x2="99" y2="143"/>
+						<line class="st7" x1="59" y1="100" x2="99" y2="100"/>
+						<line class="st7" x1="59" y1="57" x2="99" y2="57"/>
+					</g>
+				</g>
+				<path pointer-events="none" class="st8" d="M59,57"/>
+			</g>
+		</g>
+		<g>
+			<path class="st9" d="M60,217.7h18V357H60V217.7z"/>
+			<path class="st10" d="M80,147h18v210H80V147z"/>
+		</g>
+	</g>
+	<path class="st11" d="M59,57"/>
+</g>
+<g transform="translate(62,0)">
+	<path class="st7" d="M59.5,57.5h40v300h-40V57.5z"/>
+	<g>
+		<g>
+			<g transform="translate(0.5,0.5)">
+				<path pointer-events="none" class="st0" d="M59,57L59,57L59,57L59,57z"/>
+				<g>
+					<g pointer-events="none">
+						<line class="st7" x1="59" y1="357" x2="99" y2="357"/>
+						<line class="st7" x1="59" y1="314" x2="99" y2="314"/>
+						<line class="st7" x1="59" y1="271" x2="99" y2="271"/>
+						<line class="st7" x1="59" y1="228" x2="99" y2="228"/>
+						<line class="st7" x1="59" y1="186" x2="99" y2="186"/>
+						<line class="st7" x1="59" y1="143" x2="99" y2="143"/>
+						<line class="st7" x1="59" y1="100" x2="99" y2="100"/>
+						<line class="st7" x1="59" y1="57" x2="99" y2="57"/>
+					</g>
+				</g>
+				<path pointer-events="none" class="st8" d="M59,57"/>
+			</g>
+		</g>
+		<g>
+			<path class="st9" d="M60,152.9h18V357H60V152.9z"/>
+			<path class="st10" d="M80,66.8h18V357H80V66.8z"/>
+		</g>
+	</g>
+	<path class="st11" d="M59,57"/>
+</g>
+<g transform="translate(124,0)">
+	<path class="st7" d="M59.5,57.5h40v300h-40V57.5z"/>
+	<g>
+		<g>
+			<g transform="translate(0.5,0.5)">
+				<path pointer-events="none" class="st0" d="M59,57L59,57L59,57L59,57z"/>
+				<g>
+					<g pointer-events="none">
+						<line class="st7" x1="59" y1="357" x2="99" y2="357"/>
+						<line class="st7" x1="59" y1="314" x2="99" y2="314"/>
+						<line class="st7" x1="59" y1="271" x2="99" y2="271"/>
+						<line class="st7" x1="59" y1="228" x2="99" y2="228"/>
+						<line class="st7" x1="59" y1="186" x2="99" y2="186"/>
+						<line class="st7" x1="59" y1="143" x2="99" y2="143"/>
+						<line class="st7" x1="59" y1="100" x2="99" y2="100"/>
+						<line class="st7" x1="59" y1="57" x2="99" y2="57"/>
+					</g>
+				</g>
+				<path pointer-events="none" class="st8" d="M59,57"/>
+			</g>
+		</g>
+		<g>
+			<path class="st9" d="M60,177.9h18V357H60V177.9z"/>
+			<path class="st10" d="M80,164.7h18V357H80V164.7z"/>
+		</g>
+	</g>
+	<path class="st11" d="M59,57"/>
+</g>
+<path pointer-events="none" class="st0" d="M233.9,318.5h46v40h-46V318.5z"/>
+<g>
+	<g>
+		<g transform="translate(0,16)">
+			<path pointer-events="none" class="st0" d="M230.8,306.5L230.8,306.5L230.8,306.5L230.8,306.5z"/>
+			<g>
+				<g>
+					<g transform="translate(0,0)">
+						<path pointer-events="none" class="st0" d="M230.8,306.5h45.5v11h-45.5V306.5z"/>
+						<g>
+							<g pointer-events="none">
+								<path class="st9" d="M231.8,307.5h10v10h-10V307.5z"/>
+							</g>
+							<g pointer-events="none">
+								<text transform="matrix(1 0 0 1 246.7545 315.5098)" class="st2 st3">County</text>
+							</g>
+						</g>
+						<path pointer-events="none" class="st6" d="M230.8,306.5"/>
+					</g>
+					<g transform="translate(0,13)">
+						<path pointer-events="none" class="st0" d="M230.8,306.5h45.5v11h-45.5V306.5z"/>
+						<g>
+							<g pointer-events="none">
+								<path class="st10" d="M231.8,307.5h10v10h-10V307.5z"/>
+							</g>
+							<g pointer-events="none">
+								<text transform="matrix(1 0 0 1 246.7545 315.5098)" class="st12"><tspan x="0" y="0" class="st2 st3">State </tspan><tspan x="0" y="12" class="st2 st3">Average</tspan></text>
+							</g>
+						</g>
+						<path pointer-events="none" class="st6" d="M230.8,306.5"/>
+					</g>
+				</g>
+			</g>
+			<path pointer-events="none" class="st6" d="M230.8,306.5"/>
+		</g>
+	</g>
+</g>
+<path pointer-events="none" class="st6" d="M243,57"/>
+<path class="st6" d="M59,57"/>
+<g transform="translate(-1,0)">
+	<g>
+		<g>
+			<g transform="translate(0.5,0.5)">
+				<path pointer-events="none" class="st6" d="M-234.5,56.5"/>
+			</g>
+		</g>
+	</g>
+	<path class="st6" d="M-234.5,56.5"/>
+</g>
+<g transform="translate(0,-1)">
+	<g>
+		<g>
+			<g transform="translate(20,-20)">
+				<path pointer-events="none" class="st6" d="M-234.5,56.5"/>
+			</g>
+		</g>
+	</g>
+	<path class="st6" d="M-234.5,56.5"/>
+</g>
+<g transform="translate(62,-1)">
+	<g>
+		<g>
+			<g transform="translate(20,-20)">
+				<path pointer-events="none" class="st6" d="M-234.5,56.5"/>
+			</g>
+		</g>
+	</g>
+	<path class="st6" d="M-234.5,56.5"/>
+</g>
+<g transform="translate(124,-1)">
+	<g>
+		<g>
+			<g transform="translate(20,-20)">
+				<path pointer-events="none" class="st6" d="M-234.5,56.5"/>
+			</g>
+		</g>
+	</g>
+	<path class="st6" d="M-234.5,56.5"/>
+</g>
+<g transform="translate(0,0)">
+	<g>
+		<g>
+			<g transform="translate(0.5,0.5)">
+				<path pointer-events="none" class="st8" d="M-234.5,56.5"/>
+			</g>
+		</g>
+	</g>
+	<path class="st11" d="M-234.5,56.5"/>
+</g>
+<g transform="translate(62,0)">
+	<g>
+		<g>
+			<g transform="translate(0.5,0.5)">
+				<path pointer-events="none" class="st8" d="M-234.5,56.5"/>
+			</g>
+		</g>
+	</g>
+	<path class="st11" d="M-234.5,56.5"/>
+</g>
+<g transform="translate(124,0)">
+	<g>
+		<g>
+			<g transform="translate(0.5,0.5)">
+				<path pointer-events="none" class="st8" d="M-234.5,56.5"/>
+			</g>
+		</g>
+	</g>
+	<path class="st11" d="M-234.5,56.5"/>
+</g>
+<path class="st6" d="M-234.5,56.5"/>
+</svg>
