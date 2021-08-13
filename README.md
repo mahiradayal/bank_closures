@@ -34,7 +34,11 @@ An expert told me there were errors in FDIC address data, and that their geocodi
 3. Spot tested previous errors with newly generated coordinates to check validity — new Google Maps latitude and longitude were correct. 
 
 ### 4. Mapping and Visualizing to analyze: 
-I used MapBox and QGIS in my analysis to look at where banks are concentrated, how spread out they are and to see whether there are visually obvious bank deserts. 
+I used MapBox and QGIS in my analysis to look at where banks are concentrated, how spread out they are and to see whether there are visually obvious bank deserts.
+
+Interactive map of banks in Lousisiana, centered on Caddo Parish: https://bustling-just-gojirasaurus.glitch.me/ 
+Interactive map of banks in California, focused on Imperal Valley county: https://satisfying-discreet-nerine.glitch.me/ 
+
 1. The `california_map` and `louisiana_map` folders within `visuals` contain `index.html`, `map.js` and `styles.css` each, which can be used to run the MapBox maps I looked at. Both zoom into the correct counties and show bank names and the total value of assets they hold (which is useful as a measure of how big the bank actually is). Both maps were generated from the geolocated FDIC data, filtered down to the county level. 
 2. This point data is available in the `data` folder accompanying MapBox files as both `.csv` and `.geojson` files. 
 
