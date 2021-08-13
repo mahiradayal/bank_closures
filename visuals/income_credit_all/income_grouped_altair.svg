@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 356 415" style="enable-background:new 0 0 356 415;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;}
+	.st2{display:none;}
+	.st3{fill:none;stroke:#888888;stroke-miterlimit:10;}
+	.st4{font-family:'Helvetica';}
+	.st5{font-size:10px;}
+	.st6{font-family:'MyriadPro-Regular';}
+	.st7{font-size:11px;}
+	.st8{fill:none;stroke:#DDDDDD;stroke-miterlimit:10;}
+	.st9{display:none;fill:none;stroke:#DDDDDD;stroke-miterlimit:10;}
+	.st10{fill:#4C78A8;}
+	.st11{fill:#F58518;}
+	.st12{display:none;fill:#F58518;}
+	.st13{font-size:12px;}
+</style>
+<rect x="4.7" y="-0.5" class="st0" width="356" height="415"/>
+<path class="st1" d="M59,57L59,57L59,57L59,57z"/>
+<path class="st1" d="M172,26L172,26L172,26L172,26z"/>
+<path pointer-events="none" class="st1" d="M172,5L172,5"/>
+<path pointer-events="none" class="st2" d="M172,5"/>
+<path class="st2" d="M172,26"/>
+<path class="st1" d="M58,57L58,57v300l0,0V57z"/>
+<path pointer-events="none" class="st1" d="M58.5,57.5L58.5,57.5L58.5,57.5L58.5,57.5z"/>
+<line class="st3" x1="58.5" y1="320.5" x2="53.5" y2="320.5"/>
+<line class="st3" x1="58.5" y1="282.5" x2="53.5" y2="282.5"/>
+<line class="st3" x1="58.5" y1="245.5" x2="53.5" y2="245.5"/>
+<line class="st3" x1="58.5" y1="207.5" x2="53.5" y2="207.5"/>
+<line class="st3" x1="58.5" y1="170.5" x2="53.5" y2="170.5"/>
+<line class="st3" x1="58.5" y1="132.5" x2="53.5" y2="132.5"/>
+<line class="st3" x1="58.5" y1="95.5" x2="53.5" y2="95.5"/>
+<line class="st3" x1="58.5" y1="57.5" x2="53.5" y2="57.5"/>
+<text transform="matrix(1 0 0 1 20.9141 323)" class="st4 st5">10,000</text>
+<text transform="matrix(1 0 0 1 20.9141 285.5)" class="st4 st5">20,000</text>
+<text transform="matrix(1 0 0 1 20.9141 248)" class="st4 st5">30,000</text>
+<text transform="matrix(1 0 0 1 20.9141 210.5)" class="st4 st5">40,000</text>
+<text transform="matrix(1 0 0 1 20.9141 173)" class="st4 st5">50,000</text>
+<text transform="matrix(1 0 0 1 20.9141 135.5)" class="st4 st5">60,000</text>
+<text transform="matrix(1 0 0 1 20.9141 98)" class="st4 st5">70,000</text>
+<text transform="matrix(1 0 0 1 20.9141 60.5)" class="st4 st5">80,000</text>
+<line class="st3" x1="58.5" y1="357.5" x2="58.5" y2="57.5"/>
+<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 14.9141 272.1709)" class="st6 st7">Median Household Income</text>
+<path pointer-events="none" class="st2" d="M58.5,57.5"/>
+<path class="st2" d="M58,57"/>
+<path class="st1" d="M59,56h40l0,0H59z"/>
+<path pointer-events="none" class="st1" d="M79,36L79,36L79,36L79,36z"/>
+<text transform="matrix(1 0 0 1 62.0469 44)" class="st6 st5">Arizona</text>
+<path pointer-events="none" class="st2" d="M79,36"/>
+<path class="st2" d="M59,56"/>
+<path class="st1" d="M121,56h40l0,0H121z"/>
+<path pointer-events="none" class="st1" d="M141,36L141,36L141,36L141,36z"/>
+<text transform="matrix(1 0 0 1 119.8794 44)" class="st6 st5">California</text>
+<path pointer-events="none" class="st2" d="M141,36"/>
+<path class="st2" d="M121,56"/>
+<path class="st1" d="M183,56h40l0,0H183z"/>
+<path pointer-events="none" class="st1" d="M203,36L203,36L203,36L203,36z"/>
+<text transform="matrix(1 0 0 1 181.8794 44)" class="st6 st5">Delaware</text>
+<path pointer-events="none" class="st2" d="M203,36"/>
+<path class="st2" d="M183,56"/>
+<path class="st1" d="M245,56h40l0,0H245z"/>
+<path pointer-events="none" class="st1" d="M265,36L265,36L265,36L265,36z"/>
+<text transform="matrix(1 0 0 1 243.5938 44)" class="st6 st5">Louisiana</text>
+<path pointer-events="none" class="st2" d="M265,36"/>
+<path class="st2" d="M245,56"/>
+<path class="st1" d="M59,358h40l0,0H59z"/>
+<path pointer-events="none" class="st1" d="M59.5,358.5L59.5,358.5L59.5,358.5L59.5,358.5z"/>
+<line class="st3" x1="59.5" y1="358.5" x2="99.5" y2="358.5"/>
+<path pointer-events="none" class="st2" d="M59.5,358.5"/>
+<path class="st2" d="M59,358"/>
+<path class="st1" d="M121,358h40l0,0H121z"/>
+<path pointer-events="none" class="st1" d="M121.5,358.5L121.5,358.5L121.5,358.5L121.5,358.5z"/>
+<line class="st3" x1="121.5" y1="358.5" x2="161.5" y2="358.5"/>
+<path pointer-events="none" class="st2" d="M121.5,358.5"/>
+<path class="st2" d="M121,358"/>
+<path class="st1" d="M183,358h40l0,0H183z"/>
+<path pointer-events="none" class="st1" d="M183.5,358.5L183.5,358.5L183.5,358.5L183.5,358.5z"/>
+<line class="st3" x1="183.5" y1="358.5" x2="223.5" y2="358.5"/>
+<path pointer-events="none" class="st2" d="M183.5,358.5"/>
+<path class="st2" d="M183,358"/>
+<path class="st1" d="M245,358h40l0,0H245z"/>
+<path pointer-events="none" class="st1" d="M245.5,358.5L245.5,358.5L245.5,358.5L245.5,358.5z"/>
+<line class="st3" x1="245.5" y1="358.5" x2="285.5" y2="358.5"/>
+<path pointer-events="none" class="st2" d="M245.5,358.5"/>
+<path class="st2" d="M245,358"/>
+<path class="st8" d="M59.5,57.5h40v300h-40V57.5z"/>
+<path pointer-events="none" class="st1" d="M59.5,57.5L59.5,57.5L59.5,57.5L59.5,57.5z"/>
+<line class="st8" x1="59.5" y1="357.5" x2="99.5" y2="357.5"/>
+<line class="st8" x1="59.5" y1="320.5" x2="99.5" y2="320.5"/>
+<line class="st8" x1="59.5" y1="282.5" x2="99.5" y2="282.5"/>
+<line class="st8" x1="59.5" y1="245.5" x2="99.5" y2="245.5"/>
+<line class="st8" x1="59.5" y1="207.5" x2="99.5" y2="207.5"/>
+<line class="st8" x1="59.5" y1="170.5" x2="99.5" y2="170.5"/>
+<line class="st8" x1="59.5" y1="132.5" x2="99.5" y2="132.5"/>
+<line class="st8" x1="59.5" y1="95.5" x2="99.5" y2="95.5"/>
+<line class="st8" x1="59.5" y1="57.5" x2="99.5" y2="57.5"/>
+<path pointer-events="none" class="st9" d="M59.5,57.5"/>
+<path class="st10" d="M60,235.1h18V357H60V235.1z"/>
+<path class="st11" d="M80,173.3h18V357H80V173.3z"/>
+<path class="st12" d="M59,57"/>
+<path class="st8" d="M121.5,57.5h40v300h-40V57.5z"/>
+<path pointer-events="none" class="st1" d="M121.5,57.5L121.5,57.5L121.5,57.5L121.5,57.5z"/>
+<line class="st8" x1="121.5" y1="357.5" x2="161.5" y2="357.5"/>
+<line class="st8" x1="121.5" y1="320.5" x2="161.5" y2="320.5"/>
+<line class="st8" x1="121.5" y1="282.5" x2="161.5" y2="282.5"/>
+<line class="st8" x1="121.5" y1="245.5" x2="161.5" y2="245.5"/>
+<line class="st8" x1="121.5" y1="207.5" x2="161.5" y2="207.5"/>
+<line class="st8" x1="121.5" y1="170.5" x2="161.5" y2="170.5"/>
+<line class="st8" x1="121.5" y1="132.5" x2="161.5" y2="132.5"/>
+<line class="st8" x1="121.5" y1="95.5" x2="161.5" y2="95.5"/>
+<line class="st8" x1="121.5" y1="57.5" x2="161.5" y2="57.5"/>
+<path pointer-events="none" class="st9" d="M121.5,57.5"/>
+<path class="st10" d="M122,178.4h18V357h-18V178.4z"/>
+<path class="st11" d="M142,103.1h18V357h-18V103.1z"/>
+<path class="st12" d="M121,57"/>
+<path class="st8" d="M183.5,57.5h40v300h-40V57.5z"/>
+<path pointer-events="none" class="st1" d="M183.5,57.5L183.5,57.5L183.5,57.5L183.5,57.5z"/>
+<line class="st8" x1="183.5" y1="357.5" x2="223.5" y2="357.5"/>
+<line class="st8" x1="183.5" y1="320.5" x2="223.5" y2="320.5"/>
+<line class="st8" x1="183.5" y1="282.5" x2="223.5" y2="282.5"/>
+<line class="st8" x1="183.5" y1="245.5" x2="223.5" y2="245.5"/>
+<line class="st8" x1="183.5" y1="207.5" x2="223.5" y2="207.5"/>
+<line class="st8" x1="183.5" y1="170.5" x2="223.5" y2="170.5"/>
+<line class="st8" x1="183.5" y1="132.5" x2="223.5" y2="132.5"/>
+<line class="st8" x1="183.5" y1="95.5" x2="223.5" y2="95.5"/>
+<line class="st8" x1="183.5" y1="57.5" x2="223.5" y2="57.5"/>
+<path pointer-events="none" class="st9" d="M183.5,57.5"/>
+<path class="st10" d="M184,79.9h18V357h-18V79.9z"/>
+<path class="st11" d="M204,109.5h18V357h-18V109.5z"/>
+<path class="st12" d="M183,57"/>
+<path class="st8" d="M245.5,57.5h40v300h-40V57.5z"/>
+<path pointer-events="none" class="st1" d="M245.5,57.5L245.5,57.5L245.5,57.5L245.5,57.5z"/>
+<line class="st8" x1="245.5" y1="357.5" x2="285.5" y2="357.5"/>
+<line class="st8" x1="245.5" y1="320.5" x2="285.5" y2="320.5"/>
+<line class="st8" x1="245.5" y1="282.5" x2="285.5" y2="282.5"/>
+<line class="st8" x1="245.5" y1="245.5" x2="285.5" y2="245.5"/>
+<line class="st8" x1="245.5" y1="207.5" x2="285.5" y2="207.5"/>
+<line class="st8" x1="245.5" y1="170.5" x2="285.5" y2="170.5"/>
+<line class="st8" x1="245.5" y1="132.5" x2="285.5" y2="132.5"/>
+<line class="st8" x1="245.5" y1="95.5" x2="285.5" y2="95.5"/>
+<line class="st8" x1="245.5" y1="57.5" x2="285.5" y2="57.5"/>
+<path pointer-events="none" class="st9" d="M245.5,57.5"/>
+<path class="st10" d="M246,200.3h18V357h-18V200.3z"/>
+<path class="st11" d="M266,188.7h18V357h-18V188.7z"/>
+<path class="st12" d="M245,57"/>
+<path pointer-events="none" class="st1" d="M305,57h46v40h-46V57z"/>
+<path pointer-events="none" class="st1" d="M305,73L305,73L305,73L305,73z"/>
+<path pointer-events="none" class="st1" d="M305,73h45.5v11H305V73z"/>
+<path pointer-events="none" class="st2" d="M305,73"/>
+<path pointer-events="none" class="st2" d="M305,86"/>
+<path pointer-events="none" class="st2" d="M305,73"/>
+<path pointer-events="none" class="st2" d="M305,57"/>
+<path class="st2" d="M59,57"/>
+<rect x="356" y="-0.5" class="st0" width="337" height="415"/>
+<path class="st1" d="M396,58.7L396,58.7L396,58.7L396,58.7z"/>
+<path class="st1" d="M509,27.7L509,27.7L509,27.7L509,27.7z"/>
+<g>
+	<g>
+		<g transform="translate(0,-21)">
+			<path pointer-events="none" class="st1" d="M509,27.7L509,27.7L509,27.7L509,27.7z"/>
+			<g>
+				<g pointer-events="none">
+				</g>
+			</g>
+			<path pointer-events="none" class="st2" d="M509,27.7"/>
+		</g>
+	</g>
+</g>
+<path class="st2" d="M509,27.7"/>
+<path class="st1" d="M395,58.7L395,58.7v300l0,0V58.7z"/>
+<g>
+	<g transform="translate(0.5,0.5)">
+		<path pointer-events="none" class="st1" d="M395,58.7L395,58.7L395,58.7L395,58.7z"/>
+		<g>
+			<g pointer-events="none">
+				<path class="st3" d="M395,358.7"/>
+				<line class="st3" x1="395" y1="328.7" x2="390" y2="328.7"/>
+				<line class="st3" x1="395" y1="298.7" x2="390" y2="298.7"/>
+				<line class="st3" x1="395" y1="268.7" x2="390" y2="268.7"/>
+				<line class="st3" x1="395" y1="238.7" x2="390" y2="238.7"/>
+				<line class="st3" x1="395" y1="208.7" x2="390" y2="208.7"/>
+				<line class="st3" x1="395" y1="178.7" x2="390" y2="178.7"/>
+				<line class="st3" x1="395" y1="148.7" x2="390" y2="148.7"/>
+				<line class="st3" x1="395" y1="118.7" x2="390" y2="118.7"/>
+				<line class="st3" x1="395" y1="88.7" x2="390" y2="88.7"/>
+				<line class="st3" x1="395" y1="58.7" x2="390" y2="58.7"/>
+			</g>
+			<g pointer-events="none">
+				<text transform="matrix(1 0 0 1 382.4385 331.6712)" class="st4 st5">5</text>
+				<text transform="matrix(1 0 0 1 376.877 301.6712)" class="st4 st5">10</text>
+				<text transform="matrix(1 0 0 1 376.877 271.6712)" class="st4 st5">15</text>
+				<text transform="matrix(1 0 0 1 376.877 241.6712)" class="st4 st5">20</text>
+				<text transform="matrix(1 0 0 1 376.877 211.6711)" class="st4 st5">25</text>
+				<text transform="matrix(1 0 0 1 376.877 181.6711)" class="st4 st5">30</text>
+				<text transform="matrix(1 0 0 1 376.877 151.6711)" class="st4 st5">35</text>
+				<text transform="matrix(1 0 0 1 376.877 121.6711)" class="st4 st5">40</text>
+				<text transform="matrix(1 0 0 1 376.877 91.6711)" class="st4 st5">45</text>
+				<text transform="matrix(1 0 0 1 376.877 61.6711)" class="st4 st5">50</text>
+			</g>
+			<g pointer-events="none">
+				<line class="st3" x1="395" y1="358.7" x2="395" y2="58.7"/>
+			</g>
+			<g pointer-events="none">
+				<text transform="matrix(6.123234e-17 -1 1 6.123234e-17 370.877 315.5098)" class="st6 st7">Percentage Population with Poor Credit</text>
+			</g>
+		</g>
+		<path pointer-events="none" class="st2" d="M395,58.7"/>
+	</g>
+</g>
+<path class="st2" d="M395,58.7"/>
+<path class="st1" d="M396,57.7h40l0,0H396z"/>
+<g>
+	<g>
+		<g transform="translate(20,-20)">
+			<path pointer-events="none" class="st1" d="M396,57.7L396,57.7L396,57.7L396,57.7z"/>
+			<g>
+				<g pointer-events="none">
+					<text transform="matrix(1 0 0 1 379.0469 65.6711)" class="st6 st5">Arizona</text>
+				</g>
+			</g>
+			<path pointer-events="none" class="st2" d="M396,57.7"/>
+		</g>
+	</g>
+</g>
+<path class="st2" d="M396,57.7"/>
+<path class="st1" d="M458,57.7h40l0,0H458z"/>
+<g>
+	<g>
+		<g transform="translate(20,-20)">
+			<path pointer-events="none" class="st1" d="M458,57.7L458,57.7L458,57.7L458,57.7z"/>
+			<g>
+				<g pointer-events="none">
+					<text transform="matrix(1 0 0 1 436.8794 65.6711)" class="st6 st5">California</text>
+				</g>
+			</g>
+			<path pointer-events="none" class="st2" d="M458,57.7"/>
+		</g>
+	</g>
+</g>
+<path class="st2" d="M458,57.7"/>
+<path class="st1" d="M520,57.7h40l0,0H520z"/>
+<g>
+	<g>
+		<g transform="translate(20,-20)">
+			<path pointer-events="none" class="st1" d="M520,57.7L520,57.7L520,57.7L520,57.7z"/>
+			<g>
+				<g pointer-events="none">
+					<text transform="matrix(1 0 0 1 498.8794 65.6711)" class="st6 st5">Delaware</text>
+				</g>
+			</g>
+			<path pointer-events="none" class="st2" d="M520,57.7"/>
+		</g>
+	</g>
+</g>
+<path class="st2" d="M520,57.7"/>
+<path class="st1" d="M582,57.7h40l0,0H582z"/>
+<g>
+	<g>
+		<g transform="translate(20,-20)">
+			<path pointer-events="none" class="st1" d="M582,57.7L582,57.7L582,57.7L582,57.7z"/>
+			<g>
+				<g pointer-events="none">
+					<text transform="matrix(1 0 0 1 560.5938 65.6711)" class="st6 st5">Louisiana</text>
+				</g>
+			</g>
+			<path pointer-events="none" class="st2" d="M582,57.7"/>
+		</g>
+	</g>
+</g>
+<path class="st2" d="M582,57.7"/>
+<path class="st1" d="M396,359.7h40l0,0H396z"/>
+<path class="st2" d="M396,359.7"/>
+<path class="st1" d="M458,359.7h40l0,0H458z"/>
+<path class="st2" d="M458,359.7"/>
+<path class="st1" d="M520,359.7h40l0,0H520z"/>
+<path class="st2" d="M520,359.7"/>
+<path class="st1" d="M582,359.7h40l0,0H582z"/>
+<path class="st2" d="M582,359.7"/>
+<path class="st8" d="M396.5,59.2h40v300h-40V59.2z"/>
+<g>
+	<g>
+		<g transform="translate(0.5,0.5)">
+			<path pointer-events="none" class="st1" d="M396,58.7L396,58.7L396,58.7L396,58.7z"/>
+			<g>
+				<g pointer-events="none">
+					<line class="st8" x1="396" y1="358.7" x2="436" y2="358.7"/>
+					<line class="st8" x1="396" y1="328.7" x2="436" y2="328.7"/>
+					<line class="st8" x1="396" y1="298.7" x2="436" y2="298.7"/>
+					<line class="st8" x1="396" y1="268.7" x2="436" y2="268.7"/>
+					<line class="st8" x1="396" y1="238.7" x2="436" y2="238.7"/>
+					<line class="st8" x1="396" y1="208.7" x2="436" y2="208.7"/>
+					<line class="st8" x1="396" y1="178.7" x2="436" y2="178.7"/>
+					<line class="st8" x1="396" y1="148.7" x2="436" y2="148.7"/>
+					<line class="st8" x1="396" y1="118.7" x2="436" y2="118.7"/>
+					<line class="st8" x1="396" y1="88.7" x2="436" y2="88.7"/>
+					<line class="st8" x1="396" y1="58.7" x2="436" y2="58.7"/>
+				</g>
+			</g>
+			<path pointer-events="none" class="st9" d="M396,58.7"/>
+		</g>
+	</g>
+	<g>
+		<path class="st10" d="M397,58.7h18v300h-18V58.7z"/>
+		<path class="st11" d="M417,203.7h18v155h-18V203.7z"/>
+	</g>
+</g>
+<path class="st12" d="M396,58.7"/>
+<path class="st8" d="M458.5,59.2h40v300h-40V59.2z"/>
+<g>
+	<g>
+		<g transform="translate(0.5,0.5)">
+			<path pointer-events="none" class="st1" d="M458,58.7L458,58.7L458,58.7L458,58.7z"/>
+			<g>
+				<g pointer-events="none">
+					<line class="st8" x1="458" y1="358.7" x2="498" y2="358.7"/>
+					<line class="st8" x1="458" y1="328.7" x2="498" y2="328.7"/>
+					<line class="st8" x1="458" y1="298.7" x2="498" y2="298.7"/>
+					<line class="st8" x1="458" y1="268.7" x2="498" y2="268.7"/>
+					<line class="st8" x1="458" y1="238.7" x2="498" y2="238.7"/>
+					<line class="st8" x1="458" y1="208.7" x2="498" y2="208.7"/>
+					<line class="st8" x1="458" y1="178.7" x2="498" y2="178.7"/>
+					<line class="st8" x1="458" y1="148.7" x2="498" y2="148.7"/>
+					<line class="st8" x1="458" y1="118.7" x2="498" y2="118.7"/>
+					<line class="st8" x1="458" y1="88.7" x2="498" y2="88.7"/>
+					<line class="st8" x1="458" y1="58.7" x2="498" y2="58.7"/>
+				</g>
+			</g>
+			<path pointer-events="none" class="st9" d="M458,58.7"/>
+		</g>
+	</g>
+	<g>
+		<path class="st10" d="M459,178.7h18v180h-18V178.7z"/>
+		<path class="st11" d="M479,246.5h18v112.2h-18V246.5z"/>
+	</g>
+</g>
+<path class="st12" d="M458,58.7"/>
+<path class="st8" d="M520.5,59.2h40v300h-40V59.2z"/>
+<g>
+	<g>
+		<g transform="translate(0.5,0.5)">
+			<path pointer-events="none" class="st1" d="M520,58.7L520,58.7L520,58.7L520,58.7z"/>
+			<g>
+				<g pointer-events="none">
+					<line class="st8" x1="520" y1="358.7" x2="560" y2="358.7"/>
+					<line class="st8" x1="520" y1="328.7" x2="560" y2="328.7"/>
+					<line class="st8" x1="520" y1="298.7" x2="560" y2="298.7"/>
+					<line class="st8" x1="520" y1="268.7" x2="560" y2="268.7"/>
+					<line class="st8" x1="520" y1="238.7" x2="560" y2="238.7"/>
+					<line class="st8" x1="520" y1="208.7" x2="560" y2="208.7"/>
+					<line class="st8" x1="520" y1="178.7" x2="560" y2="178.7"/>
+					<line class="st8" x1="520" y1="148.7" x2="560" y2="148.7"/>
+					<line class="st8" x1="520" y1="118.7" x2="560" y2="118.7"/>
+					<line class="st8" x1="520" y1="88.7" x2="560" y2="88.7"/>
+					<line class="st8" x1="520" y1="58.7" x2="560" y2="58.7"/>
+				</g>
+			</g>
+			<path pointer-events="none" class="st9" d="M520,58.7"/>
+		</g>
+	</g>
+	<g>
+		<path class="st10" d="M521,213.5h18v145.2h-18V213.5z"/>
+		<path class="st11" d="M541,211.3h18v147.3h-18V211.3z"/>
+	</g>
+</g>
+<path class="st12" d="M520,58.7"/>
+<path class="st8" d="M582.5,59.2h40v300h-40V59.2z"/>
+<g>
+	<g>
+		<g transform="translate(0.5,0.5)">
+			<path pointer-events="none" class="st1" d="M582,58.7L582,58.7L582,58.7L582,58.7z"/>
+			<g>
+				<g pointer-events="none">
+					<line class="st8" x1="582" y1="358.7" x2="622" y2="358.7"/>
+					<line class="st8" x1="582" y1="328.7" x2="622" y2="328.7"/>
+					<line class="st8" x1="582" y1="298.7" x2="622" y2="298.7"/>
+					<line class="st8" x1="582" y1="268.7" x2="622" y2="268.7"/>
+					<line class="st8" x1="582" y1="238.7" x2="622" y2="238.7"/>
+					<line class="st8" x1="582" y1="208.7" x2="622" y2="208.7"/>
+					<line class="st8" x1="582" y1="178.7" x2="622" y2="178.7"/>
+					<line class="st8" x1="582" y1="148.7" x2="622" y2="148.7"/>
+					<line class="st8" x1="582" y1="118.7" x2="622" y2="118.7"/>
+					<line class="st8" x1="582" y1="88.7" x2="622" y2="88.7"/>
+					<line class="st8" x1="582" y1="58.7" x2="622" y2="58.7"/>
+				</g>
+			</g>
+			<path pointer-events="none" class="st9" d="M582,58.7"/>
+		</g>
+	</g>
+	<g>
+		<path class="st10" d="M583,139.7h18v219h-18V139.7z"/>
+		<path class="st11" d="M603,145.4h18v213.2h-18V145.4z"/>
+	</g>
+</g>
+<path class="st12" d="M582,58.7"/>
+<path pointer-events="none" class="st1" d="M642,58.7h46v40h-46V58.7z"/>
+<g>
+	<g>
+		<g transform="translate(0,16)">
+			<path pointer-events="none" class="st1" d="M635.9,45L635.9,45L635.9,45L635.9,45z"/>
+			<g>
+				<g>
+					<g transform="translate(0,0)">
+						<path pointer-events="none" class="st1" d="M635.9,45h45.5v11h-45.5V45z"/>
+						<g>
+							<g pointer-events="none">
+								<path class="st10" d="M636.9,46h10v10h-10V46z"/>
+							</g>
+							<g pointer-events="none">
+								<text transform="matrix(1 0 0 1 651.918 54)" class="st6 st5">County</text>
+							</g>
+						</g>
+						<path pointer-events="none" class="st2" d="M635.9,45"/>
+					</g>
+					<g transform="translate(0,13)">
+						<path pointer-events="none" class="st1" d="M635.9,45h45.5v11h-45.5V45z"/>
+						<g>
+							<g pointer-events="none">
+								<path class="st11" d="M636.9,46h10v10h-10V46z"/>
+							</g>
+							<g pointer-events="none">
+								<text transform="matrix(1 0 0 1 651.918 54)" class="st6 st5">State</text>
+							</g>
+						</g>
+						<path pointer-events="none" class="st2" d="M635.9,45"/>
+					</g>
+				</g>
+			</g>
+			<path pointer-events="none" class="st2" d="M635.9,45"/>
+		</g>
+	</g>
+</g>
+<path pointer-events="none" class="st2" d="M642,58.7"/>
+<path class="st2" d="M396,58.7"/>
+<text transform="matrix(1 0 0 1 67.5957 22.4483)" class="st6 st13">Household Income by County and State</text>
+<text transform="matrix(1 0 0 1 399.2969 22.4482)" class="st6 st13">Credit Score Percentage by County and State</text>
+</svg>
