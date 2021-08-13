@@ -8,7 +8,7 @@
 
 ### 1. Bank Data
 
-This project uses the FDIC's bank branch data. I looked into whether the number of banks per head in a FIPs code (county) impacts median household income and credit scores for residents. This analysis helped pick out specific zip codes with very few banks, low household incomes and effective bank deserts. Specifically, my story looks into Imperial County, California, Apache County, Arizona and Caddo Parish, Louisiana. 
+This project uses the FDIC's bank branch data. I looked into whether the number of banks per head in a FIPs code (county) impacts median household income and credit scores for residents. This analysis helped pick out specific zip codes with very few banks, low household incomes and effective bank deserts. Specifically, my story looks into Imperial County, California, Apache County, Arizona, Route 9 Corridor, Delaware and Caddo Parish, Louisiana. 
 
 #### Points of interest in procuring and using bank data: 
 1. In `bank_census_merge.ipynb`, I used the census API to read in median household income and population by FIPs code. Created a new column for the number of banks per head by counting banks in each FIP code. 
