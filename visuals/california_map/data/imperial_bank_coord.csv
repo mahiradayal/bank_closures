@@ -1,5 +1,11 @@
-NAMEFULL,CNTYNAMB,SIMS_LATITUDE,SIMS_LONGITUDE,STALP,ZIP,ASSET
-Mechanics Bank,Imperial,32.792827,-115.57143300000001,CA,94596,"18,869,983"
-Mufg Union Bank, National Association",Imperial,32.978594,-115.537449,CA,94104,"136,271,523"
-Community Valley Bank,Imperial,32.792792999999996,-115.568779,CA,92244,"246,473"
-First Foundation Bank,Imperial,32.792783,-115.57379499999999,CA,92612,"7,124,859"
+UNIT,CNTYNAMB,lat,lon,STALP,ZIP,ASSET
+Mechanics Bank,Imperial,32.792827,-115.571433,CA,94596,"18,869,983"
+Mechanics Bank,Imperial,32.97854,-115.539656,CA,94596,"18,869,983"
+Mechanics Bank,Imperial,32.755892,-115.602258,CA,94596,"18,869,983"
+Mechanics Bank,Imperial,33.007128,-115.43062,CA,94596,"18,869,983"
+Mechanics Bank,Imperial,32.811082,-115.38011,CA,94596,"18,869,983"
+"Mufg Union Bank, National Association",Imperial,32.978594,-115.537449,CA,94104,"136,271,523"
+"Mufg Union Bank, National Association",Imperial,32.79285,-115.553516,CA,94104,"136,271,523"
+Community Valley Bank,Imperial,32.792793,-115.568779,CA,92244,"246,473"
+Community Valley Bank,Imperial,32.978597,-115.536878,CA,92244,"246,473"
+First Foundation Bank,Imperial,32.792783,-115.573795,CA,92612,"7,124,859"
